@@ -1,19 +1,13 @@
 public class DataJoki {
-    String username;
-    String password;
-    String noHp;
-    String jenisLayanan;
-    String detail;
-    int harga;
-    String status;
+    String username, password, nomorHp;
+    int status;
+    Layanan infoJoki;
 
-    public DataJoki(String user, String pass, String hp, String layanan, String det, int hrg) {
+    public DataJoki(String user, String pass, String hp, Layanan l) {
         this.username = user;
         this.password = pass;
-        this.noHp = hp;
-        this.jenisLayanan = layanan;
-        this.detail = det;
-        this.harga = hrg;
-        this.status = "BELUM";
+        this.nomorHp = hp;
+        this.infoJoki = l;
+        this.status = 1;
     }
 }
