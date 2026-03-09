@@ -2,7 +2,7 @@
 
 **Nama:** Dimas Elang Satria
 **NIM:** 2409106027
-**Kelas:** (Isi Kelasmu di sini)
+**Kelas:** PBO A2 2024
 
 ---
 
