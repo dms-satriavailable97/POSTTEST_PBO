@@ -42,7 +42,7 @@ Program ini menggunakan 4 Class untuk memisahkan logika data secara terorganisir
 ![Menu Utama](assets/menu.png)
 
 ### 2. Implementasi Encapsulation (Kode Program)
-![Class](assets/dataJokiGetterSetter.png)
+![Class](assets/datajokiGetterSetter.png)
 
 ![Main](assets/mainGetterSetter.png)
 
