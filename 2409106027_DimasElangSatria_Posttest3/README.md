@@ -1,4 +1,4 @@
-# Laporan Posttest 2 - Encapsulation Joki WuWa
+# Laporan Posttest 3 - Inheritence Joki WuWa
 
 **Nama:** Dimas Elang Satria
 **NIM:** 2409106027
