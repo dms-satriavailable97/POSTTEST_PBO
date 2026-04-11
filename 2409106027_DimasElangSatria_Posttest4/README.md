@@ -1,4 +1,4 @@
-# Laporan Posttest 3 - Inheritence Joki WuWa
+# Laporan Posttest 4 - Polymorphism Joki WuWa
 
 **Nama:** Dimas Elang Satria
 **NIM:** 2409106027
@@ -36,6 +36,17 @@ Sesuai dengan prinsip Encapsulation yang dipelajari, perubahan yang dilakukan pa
 
 ---
 
+## Penerapan Inheritance
+Selain encapsulation, program ini juga menerapkan konsep **Inheritance (Pewarisan)** untuk mengelompokkan jenis layanan joki.
+Struktur inheritance yang digunakan adalah:
+- Layanan (Superclass)
+    - BuildCharacter
+    - JokiEvent
+    - EksplorMap
+
+
+---
+
 ## Penerapan Polymorphism
 Pada tahap ini, program dikembangkan dengan menerapkan konsep **Polymorphism** (Polimorfisme) untuk memberikan fleksibilitas dalam penanganan berbagai tipe layanan joki secara general.
 
@@ -56,16 +67,7 @@ Overriding terjadi ketika subclass mengimplementasikan ulang method dari supercl
 
 
 
-## Penerapan Inheritance
-Selain encapsulation, program ini juga menerapkan konsep **Inheritance (Pewarisan)** untuk mengelompokkan jenis layanan joki.
-Struktur inheritance yang digunakan adalah:
-- Layanan (Superclass)
-    - BuildCharacter
-    - JokiEvent
-    - EksplorMap
 
-
----
 
 ## Dokumentasi Tampilan Program & Kode
 
